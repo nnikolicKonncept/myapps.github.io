@@ -41,6 +41,10 @@
 </head>
 <body>
   <script>
+      var scriptTag = document.createElement('script');
+      scriptTag.src = 'flutter.js';
+      scriptTag.type = 'application/javascript';
+      document.body.append(scriptTag);
     window.addEventListener('load', function(ev) {
       // Download main.dart.js
       _flutter.loader.loadEntrypoint({
