@@ -1,0 +1,44 @@
+{
+    "sr": [
+      {
+        "dep": "Autobuska stanica",
+        "city": "Beograd",
+        "tel": [
+          "+381 (0)63 381 020",
+        ],
+      },
+      {
+        "dep": "Autobuska stanica Euro-Lin",
+        "city": "Jagodina",
+        "tel": [
+          "+381 (0)35 242 261",
+          "+381 (0)63 381 021",
+        ],
+      },
+      {
+        "dep": "Poslovnica",
+        "city": "Ćuprija",
+        "tel": [
+          "+381 (0)35 8475 479",
+          "+381 (0)63 381 028",
+        ],
+      },
+      {
+        "dep": "Autobuska stanica Euro-Lin",
+        "city": "Paraćin",
+        "tel": [
+          "+381 (0)35 571 226",
+          "+381 (0)63 10 55 260",
+        ],
+      },
+    ],
+    "fo": [
+      {
+        "dep": "Euro-Lin - Salzburg",
+        "city": "Austrija",
+        "tel": [
+          "0681 10 39 53 02",
+        ],
+      },
+    ],
+  }
