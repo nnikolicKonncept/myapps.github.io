@@ -2,25 +2,25 @@
    {
       "title":"POZOVITE",
       "subtitle":"Kontakt telefon\n+381 (0)35 562 555",
-      "icon":"phone",
+      "icon":"0xe4a2",
       "color":"0xBF64BE44"
    },
    {
       "title":"RADNO VREME",
       "subtitle":"Ponedeljak - Nedelja\n06 - 21h",
-      "icon":"watch_later_rounded",
+      "icon":"0xf02a3",
       "color":"0xBFEE6444"
    },
    {
       "title":"NAŠA ADRESA",
       "subtitle":"Tome Živanovića bb\n35 250 Paraćin",
-      "icon":"location_on",
+      "icon":"0xe3ab",
       "color":"0xBFEE64A4"
    },
    {
       "title":"PRODAJNA MESTA",
       "subtitle":"Pogledajte gde sve\nmožete kupiti voznu kartu",
-      "icon":"home_work_rounded",
+      "icon":"0xf676",
       "color":"0xBFEEA444"
    }
 ]
