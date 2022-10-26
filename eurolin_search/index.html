@@ -15,7 +15,7 @@
     This is a placeholder for base href that will be replaced by the value of
     the `--base-href` argument provided to `flutter build`.
   -->
-  <base href="https://nnikolickonncept.github.io/myapps.github.io/eurolin_search/#/">
+  <base href="/">
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
@@ -35,7 +35,7 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '2985216766';
+    var serviceWorkerVersion = '654724420';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -44,7 +44,6 @@
 <body>
   <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
   <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/fetch-jsonp/1.0.6/fetch-jsonp.min.js"></script>
   <script>
     var firebaseConfig = {
         apiKey: "AIzaSyCojSOcvZ3zZxDm7E55JQ3Nk2DP3uUMcFQ",
@@ -59,9 +58,6 @@
       </script>
 
   <script>
-    fetchJsonp('http://localhost:3000')
-  .then(res => res.json())
-  .then(json => console.log(json));
     window.addEventListener('load', function (ev) {
       // Download main.dart.js
       _flutter.loader.loadEntrypoint({
