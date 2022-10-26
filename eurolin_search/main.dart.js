@@ -39047,7 +39047,7 @@ pn(){var s=0,r=A.a7(t.H),q,p,o,n
 var $async$pn=A.a3(function(a,b){if(a===1)return A.a4(b,r)
 while(true)switch(s){case 0:p=A.aCh("POST",A.A6("https://projekti.konncept.net/eurolin/redvoznje/index.php"))
 o=t.N
-p.r.O(0,A.N(["server","nginx","connection","keep-alive","vary","Accept-Encoding","content-type","text/html; charset=UTF-8"],o,o))
+p.r.O(0,A.N(["access-control-allow-origin","https://projekti.konncept.net","server","nginx","connection","keep-alive","vary","Accept-Encoding","content-type","text/html; charset=UTF-8"],o,o))
 p.x.O(0,A.N(["start_city_characters","kr"],o,o))
 s=2
 return A.a9(p.tM(0),$async$pn)
